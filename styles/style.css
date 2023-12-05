@@ -95,7 +95,7 @@ html {
     background-image: url(../images/cover.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;   
+    background-size: cover;
 }
 
 .overlay::before {
@@ -116,9 +116,9 @@ html {
     padding-right: 50px;
     display: flex;
     gap: 20px;
-    flex-direction: column; 
+    flex-direction: column;
     color: #fff;
-    font-family: Raleway, Arial, sans-serif; 
+    font-family: Raleway, Arial, sans-serif;
     font-weight: 700;
     font-size: 100px;
     font-style: normal;
@@ -137,7 +137,7 @@ html {
 }
 
 .allign-right-unique {
-    letter-spacing: initial;    
+    letter-spacing: initial;
 }
 
 .allign-center {
@@ -210,7 +210,7 @@ html {
 .lots__item {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;   
+    justify-content: space-between;
 }
 
 .lots__item::before {
@@ -351,7 +351,7 @@ html {
 
 .paragraph {
     color: #000;
-    font-family: Raleway, Arial, sans-serif; 
+    font-family: Raleway, Arial, sans-serif;
     font-weight: 400;
     font-size: 20px;
     font-style: normal;
@@ -361,7 +361,7 @@ html {
 .footer {
     display: flex;
     justify-content: space-between;
-    max-width: 1440px;   
+    max-width: 1440px;
     gap: 0;    
     font-size: 18px;
     margin-top: 180px;
@@ -372,7 +372,7 @@ html {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 0;     
+    gap: 0;
     flex-shrink: 0;
     color: #000;
     font-family: Raleway, Arial, sans-serif;
@@ -381,8 +381,8 @@ html {
     line-height: 24.3px;
 }
 
-.without-points{
-    gap: 0;    
+.without-points {
+    gap: 0;
     text-align: center;
     list-style-type: none;
     margin-top: 3px;
@@ -393,7 +393,7 @@ html {
     display: flex;
     flex-direction: row;
     gap: 48px;
-    width: 240px;     
+    width: 240px;
     grid-template-columns: 1fr min-content 1fr;
     margin-right: 50px;
 }
