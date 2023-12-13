@@ -14,7 +14,7 @@ html {
 
 .header__menu {
     justify-self: start;
-    align-self: center; 
+    align-self: center;
 }
 
 .header__links-list {
@@ -29,7 +29,7 @@ html {
     font-style: normal;
     font-weight: 400;
     line-height: normal; 
-    list-style-type: circle; 
+    list-style-type: circle;
 }
 
 .header__links-list-item {
@@ -40,7 +40,7 @@ html {
 .header__links-list-item_no-bullit {
     list-style-type: none;
     text-decoration: none;
-    justify-content: flex-start; 
+    justify-content: flex-start;
 }
 
 .header__link {
@@ -63,7 +63,7 @@ html {
 
 .address {
     justify-self: start;
-    align-self: center;  
+    align-self: center;
     font-size: 18px;
     font-style: normal;
     line-height: 135%;
@@ -151,7 +151,7 @@ html {
 .cover__description-text {
     word-spacing: 16px;
     max-width: 633px;
-    width: 100%;    
+    width: 100%;
 }
 
 .cover__description {
@@ -238,7 +238,7 @@ html {
     min-height: 450px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;   
+    background-position: center;
 }
 
 .lot-left__background {
@@ -328,7 +328,7 @@ html {
 .main-text {
     display: flex;
     flex-direction: column;
-    gap: 25px; 
+    gap: 25px;
     max-width: 885px;
     margin-left: auto;
     margin-top: 10px;
@@ -349,26 +349,12 @@ html {
     display: flex;
     justify-content: space-between;
     max-width: 1440px;
-    gap: 0;    
+    gap: 0;
     font-size: 18px;
     margin: 180px 50px 90px 50px;
 }
 
-.address {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    gap: 0;
-    flex-shrink: 0;
-    color: #000;
-    font-family: Raleway, Arial, sans-serif;
-    font-size: 18px;
-    margin-top: 5px;
-    line-height: 24.3px;
-}
-
 .without-points {
-    gap: 0;
     text-align: center;
     list-style-type: none;
     margin-top: 3px;
